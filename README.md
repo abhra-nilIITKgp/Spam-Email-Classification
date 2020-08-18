@@ -1,0 +1,6 @@
+# Spam-Email-Classification
+Naive Bayes and KNN algorithms are coded from scratch to classify emails as spam or not-spam
+I wrote these codes after doing the CS229-Machine Learnig course by Prof. Andrew Ng. Both the Naive Bayes and KNN algorithms have been coded from scratch, not using 
+any library like sklearn. I am workikg on coding a neural-network classifier and will soon commit its code.
+Feel free to use and learn from these codes...
+Toodles...
